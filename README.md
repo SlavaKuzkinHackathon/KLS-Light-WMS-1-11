@@ -24,11 +24,11 @@
 
 ### 1. Рабочее место кладовщика (Визуализация)
 *(Вставь сюда скриншот всей формы с картой)*
-`![Main Form](path_to_screenshot_1.png)`
+`![Main Form](https://github.com/SlavaKuzkinHackathon/KLS-Light-WMS-1-11/blob/main/PS_1.png)`
 
 ### 2. Подсветка ячейки при поиске
 *(Вставь скриншот увеличенной карты с желтой ячейкой)*
-`![Map Highlight](path_to_screenshot_2.png)`
+`![Map Highlight](https://github.com/SlavaKuzkinHackathon/KLS-Light-WMS-1-11/blob/main/PS_2.png)`
 
 ---
 
